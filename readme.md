@@ -12,11 +12,11 @@ You need an Excel license for this code to run. Then follow [this](https://www.e
 
 
 ## Features
-*Calculation of the minimum embedment depth of a screw according to VDI 2230
+* Calculation of the minimum embedment depth of a screw according to VDI 2230
 
-*Selection of thread designation, strength class, and material type via three comboboxes
+* Selection of thread designation, strength class, and material type via three comboboxes
 
-*User-friendly Excel interface with buttons for calculation and resetting the tool
+* User-friendly Excel interface with buttons for calculation and resetting the tool
 
 ## Usage
 1. Open the Excel file and click on the "Calculate Minimum Embedment Depth" button.
