@@ -8,7 +8,8 @@ You need an Excel license for this code to run. Then follow [this](https://www.e
 
 ## Preview
 
-![mindesteinschraubtiefe](https://user-images.githubusercontent.com/123315352/224512103-392eccf3-a3e3-41fb-bc78-750aa2c7dfbb.gif)
+![Minimum Embedment Depth](https://user-images.githubusercontent.com/123315352/227933761-a2c334f7-a95d-4dcc-8664-cc539e4895a8.gif)
+
 
 ## Features
 *Calculation of the minimum embedment depth of a screw according to VDI 2230
